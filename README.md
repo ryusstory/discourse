@@ -1,4 +1,4 @@
-## Sam's simple discourse theme
+## Material Design Stock Theme
 
-More info at: https://meta.discourse.org/t/sams-personal-minimal-topic-list-design/23552?u=sam
+More info at: https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
 
